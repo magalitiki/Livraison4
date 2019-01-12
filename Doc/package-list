@@ -1,0 +1,5 @@
+com.objis.cameroun.neostore.dao
+com.objis.cameroun.neostore.domaine
+com.objis.cameroun.neostore.presentation
+com.objis.cameroun.neostore.service
+com.objis.cameroun.neostore.service.impl
